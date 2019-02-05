@@ -1,0 +1,9 @@
+<!ELEMENT centros_equitacio (centro+)>
+<!ELEMENT centro (nom,tipus,direccio,poblacio,ille,disciplines,provincia)>
+<!ELEMENT nom (#PCDATA)>
+<!ELEMENT tipus (#PCDATA)>
+<!ELEMENT direccio (#PCDATA)>
+<!ELEMENT poblacio (#PCDATA)>
+<!ELEMENT ille (#PCDATA)>
+<!ELEMENT disciplines (#PCDATA)>
+<!ELEMENT provincia (#PCDATA)>
