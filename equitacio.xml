@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE centros_equitacio SYSTEM "equitacio.dtd">
+
+<!-- Aquesta es una relació de unes escoles d’equitació tretes de la 
+web https://www.guiahipica.com/Directorio/Turismo_Ecuestre/Baleares/2/1/  
+per poder treure la informació de la pràctica. -->
+
+
+<centros_equitacio>
+
+<centro>
+    <nom>CLUB HIPICO LA GUBIA</nom>
+    <tipus>Escola</tipus>
+    <direccio>CRTA DE SOLLER KM 13,8 </direccio>
+	<poblacio>BUNYOLA</poblacio> 
+    <ille>Mallorca</ille>
+    <disciplines>tu mejor elección!</disciplines>
+    <provincia>Illes Balears</provincia>
+</centro>
+
+<centro>
+    <nom>SON MOLINA</nom>
+    <tipus>Escola</tipus>
+    <direccio>Bunyola Carretera de Soller km 12,2 Esquina con camino de Caubet 07110</direccio>
+	<poblacio></poblacio> 
+    <ille>Mallorca</ille>
+    <disciplines></disciplines>
+    <provincia>Illes Balears</provincia>
+</centro>
+
+<centro>
+    <nom>SON MENUT</nom>
+    <tipus>Escola</tipus>
+    <direccio></direccio>
+	<poblacio>Felanitx</poblacio> 
+    <ille>Mallorca</ille>
+    <disciplines></disciplines>
+    <provincia>Illes Balears</provincia>
+</centro>
+
+<centro>
+    <nom>CENTRO HÍPICO SON REUS</nom>
+    <tipus>Escola</tipus>
+    <direccio>Carretera de Soller km8</direccio>
+	<poblacio>Palma de Mallorca</poblacio> 
+    <ille>Mallorca</ille>
+    <disciplines></disciplines>
+    <provincia>Illes Balears</provincia>
+</centro>
+
+<centro>
+    <nom>S’HORT VELL</nom>
+    <tipus>Escola</tipus>
+    <direccio>Carretera Ma-3020 (Santa Maria del Camí – Sencelles), Km 8,4 07143</direccio>
+	<poblacio>Biniali</poblacio> 
+    <ille>Mallorca</ille>
+    <disciplines>Equitación para niños (pony club) y terapias asistidas con caballos.</disciplines>
+    <provincia>Illes Balears</provincia>
+</centro>
+
+<centro>
+    <nom>RANXO SES ROQUES</nom>
+    <tipus>Escola</tipus>
+    <direccio>Av. de França 07400</direccio>
+	<poblacio>Alcúdia</poblacio> 
+    <ille>Mallorca</ille>
+    <disciplines>Raza: Pura Raza Español</disciplines>
+    <provincia>Illes Balears</provincia>
+</centro>
+
+<centro>
+    <nom>RANCHO BONANZA</nom>
+    <tipus>Escola</tipus>
+    <direccio>Carrer Can Patilla 07590</direccio>
+	<poblacio>Cala Ratjada</poblacio> 
+    <ille>Mallorca</ille>
+    <disciplines>Raza: Pura Raza Español</disciplines>
+    <provincia>Illes Balears</provincia>
+</centro>
+
+<centro>
+    <nom>PETIT RUSSÓ</nom>
+    <tipus>Escola</tipus>
+    <direccio>Camí de Macarella, Finca Bellaventura. 07760</direccio>
+	<poblacio>Ciutadella</poblacio> 
+    <ille>Menorca</ille>
+    <disciplines></disciplines>
+    <provincia>Illes Balears</provincia>
+</centro>
+
+<centro>
+    <nom>HÍPICA CIUDADELA</nom>
+    <tipus>Escola</tipus>
+    <direccio>Ctra. Cala Morell, Km, 4</direccio>
+	<poblacio>Ciudadela</poblacio> 
+    <ille>Menorca
+</ille>
+    <disciplines></disciplines>
+    <provincia>Illes Balears</provincia>
+</centro>
+
+<centro>
+    <nom>CLUB EQUITACION SON GUAL</nom>
+    <tipus>Escola</tipus>
+    <direccio>Carretera Establiments - Puigpunyent km 2</direccio>
+	<poblacio>Palma de Mallorca.</poblacio> 
+    <ille>Mallorca</ille>
+    <disciplines></disciplines>
+    <provincia>Illes Balears</provincia>
+</centro>
+
+<centro>
+    <nom>REAL CLUB ESCUELA DE EQUITACIÓN DE MALLORCA</nom>
+    <tipus>Escola</tipus>
+    <direccio>Ctra de Soller km 12 - 07193</direccio>
+	<poblacio>Palmanyola</poblacio> 
+    <ille>Mallorca</ille>
+    <disciplines></disciplines>
+    <provincia>Illes Balears</provincia>
+</centro>
+
+<centro>
+    <nom>PONY CLUB CALVIA</nom>
+    <tipus>Escola</tipus>
+    <direccio></direccio>
+	<poblacio>Calvia</poblacio> 
+    <ille>Mallorca</ille>
+    <disciplines>Cursillo verano</disciplines>
+    <provincia>Illes Balears</provincia>
+</centro>
+
+<centro>
+    <nom>HÍPICA DE MENORCA</nom>
+    <tipus>Escola</tipus>
+    <direccio></direccio>
+	<poblacio>Alaior</poblacio> 
+    <ille>Menorca</ille>
+    <disciplines></disciplines>
+    <provincia>Illes Balears</provincia>
+</centro>
+
+<centro>
+    <nom>ESCUELA DE EQUITACIÓN CAN MAYANS</nom>
+    <tipus>Escola</tipus>
+    <direccio></direccio>
+	<poblacio>Santa Gertrudis</poblacio> 
+    <ille>Ibiza</ille>
+    <disciplines></disciplines>
+    <provincia>Illes Balears</provincia>
+</centro>
+
+<centro>
+    <nom>RUTAS ECUESTRES MENORCA</nom>
+    <tipus>Turisme</tipus>
+    <direccio>Carretera Cala-Morell-playa Algaiarens</direccio>
+	<poblacio>Ciutadella</poblacio> 
+    <ille>Menorca</ille>
+    <disciplines>Ofrecemos rutas y paseo a caballo en Menorca.</disciplines>
+    <provincia>Illes Balears</provincia>
+</centro>
+
+<centro>
+    <nom>SON MESTRES DE BAIX</nom>
+    <tipus>Turisme</tipus>
+    <direccio>Cala galdana Son Mestres de Baix</direccio>
+	<poblacio></poblacio> 
+    <ille>Menorca</ille>
+    <disciplines>Vacaciones a caballo por Menorca</disciplines>
+    <provincia>Illes Balears</provincia>
+</centro>
+
+<centro>
+    <nom>RUTAS ECUESTRES CA´N RUIZ</nom>
+    <tipus>Turisme</tipus>
+    <direccio>Cami de Algaiarens 14 Bj</direccio>
+	<poblacio>Ciutadella</poblacio> 
+    <ille>Menorca</ille>
+    <disciplines>Rutas ecuestres en MENORCA</disciplines>
+    <provincia>Illes Balears</provincia>
+</centro>
+
+<centro>
+    <nom>MENORCA A CAVALL</nom>
+    <tipus>Turisme</tipus>
+    <direccio></direccio>
+	<poblacio>Cala Galdana</poblacio> 
+    <ille>Menorca</ille>
+    <disciplines></disciplines>
+    <provincia>Illes Balears</provincia>
+</centro>
+
+<centro>
+    <nom>HÍPICA FORMENTOR</nom>
+    <tipus>Turisme</tipus>
+    <direccio></direccio>
+	<poblacio></poblacio> 
+    <ille>Formentera</ille>
+    <disciplines></disciplines>
+    <provincia>Illes Balears</provincia>
+</centro>
+
+<centro>
+    <nom>SON OLIVAR NOU</nom>
+    <tipus>Turisme</tipus>
+    <direccio></direccio>
+	<poblacio></poblacio> 
+    <ille>Menorca</ille>
+    <disciplines></disciplines>
+    <provincia>Illes Balears</provincia>
+</centro>
+
+<centro>
+    <nom>EASY RIDER</nom>
+    <tipus>Turisme</tipus>
+    <direccio></direccio>
+	<poblacio>Santa Eulalia del Río  </poblacio> 
+    <ille>Ibiza</ille>
+    <disciplines></disciplines>
+    <provincia>Illes Balears</provincia>
+</centro>
+
+</centros_equitacio>
