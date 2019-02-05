@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="centros_equitacio">
+    <xs:annotation>
+      <xs:documentation>Aquesta es una relació de unes escoles d’equitació tretes de la 
+web https://www.guiahipica.com/Directorio/Turismo_Ecuestre/Baleares/2/1/  
+per poder treure la informació de la pràctica.</xs:documentation>
+    </xs:annotation>
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="centro" maxOccurs="unbounded" minOccurs="0">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:string" name="nom"/>
+              <xs:element type="xs:string" name="tipus"/>
+              <xs:element type="xs:string" name="direccio"/>
+              <xs:element type="xs:string" name="poblacio"/>
+              <xs:element type="xs:string" name="ille"/>
+              <xs:element type="xs:string" name="disciplines"/>
+              <xs:element type="xs:string" name="provincia"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
